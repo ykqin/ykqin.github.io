@@ -1,6 +1,6 @@
 <html>
   <body>
-    <font face="微软雅黑" size=6><center>随笔</center></font>
+    <center>随笔</center>
   </body>
 </html>
 
