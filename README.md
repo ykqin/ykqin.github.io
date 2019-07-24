@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title>个人随笔</title>
-  </head>
   <body>
     <center><font face="微软雅黑" size=6>随笔</font></center>
   </body>
