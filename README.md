@@ -24,7 +24,7 @@
 
 **MATLAB toolbox算法仿真**
 
-1. July 21 [5GNR下行载波生成](/work/[2019-07-21]5GNR下行载波生成/NRDownlinkWaveformGeneration.md.html) 
+1. July 21 [5GNR下行载波生成](/work/[2019-07-21]5GNR下行载波生成/NRDownlinkWaveformGeneration.html) 
 
 
 
