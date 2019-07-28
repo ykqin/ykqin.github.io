@@ -6,7 +6,7 @@
 
 **5G协议**
   - [ ] MIMO
-  - [ ] BWP
+  - [X] BWP
   - [ ] SSB
   - [ ] MIB
   - [ ] CORESET
@@ -20,11 +20,13 @@
   - [ ] PDSCH
   - [ ] PUSCH
 
-1. 2019.07.28 [BWP配置及切换](/work/[2019-07-28]BWP.html)
+1. 2019.07.28 [BWP配置及切换](/work/[2019-07-28]BWP/BWP.html)
 
 **MATLAB toolbox算法仿真**
-1. July 21 [5GNR下行载波生成](/work/[2019-07-21]5GNR下行载波生成.html) 
-   
+
+1. July 21 [5GNR下行载波生成](/work/[2019-07-21]5GNR下行载波生成/NRDownlinkWaveformGeneration.md.html) 
+
+
 
 **通信知识**
 
