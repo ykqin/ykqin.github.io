@@ -1,39 +1,61 @@
-# 随笔
+# JBlog Jekyll Theme
 
-# 1 通信小白的成长之路
+**[JBlog](http://alperenbozkurt.net/JBlog)** is a simple jekyll theme.
 
-学习5G协议，总结通信算法，利用MATLAB toolbox进行算法仿真，总结通信知识，包括以下内容：
+I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
 
-**5G协议**
-  - [ ] MIMO
-  - [X] BWP
-  - [ ] SSB
-  - [ ] MIB
-  - [ ] CORESET
-  - [ ] DCI
-  - [ ] SIB
-  - [ ] 随机接入
-  - [ ] UCI
-  - [ ] PUCCH
-  - [ ] CSI-RS
-  - [ ] SRS
-  - [ ] PDSCH
-  - [ ] PUSCH
+If you like this theme or using it, please give a **star** for motivation.
 
-1. 2019.07.28 [BWP配置及切换](/work/[2019-07-28]BWP/BWP.html)
+## Preview
 
-**MATLAB toolbox算法仿真**
+![Home Page](/assets/img/screenshot-home.png)    
+![Post Page](/assets/img/screenshot-post.png)
 
-1. July 21 [5GNR下行载波生成](/work/[2019-07-21]5GNR下行载波生成/NRDownlinkWaveformGeneration.html) 
+See a [live version of JBlog](http://alperenbozkurt.net/JBlog) hosted on GitHub.
 
+## Getting Started
 
+To learn how to install and use this theme check out the [Setup Guide](http://alperenbozkurt.net/JBlog/JBlog-theme/) for more information or apply the following instructions.
 
-**通信知识**
+## Installation
 
-# 2 腹有诗书气自华
-读书使人睿智
+- Fork the Repo
+- Edit _config.yml file.
+	- Edit url as **https**://yourusername.github.io
+	- and others
+- Remove sample posts from _posts folder and add yours.
+- Edit index.md file in about folder.
+- Change repo name to YourUserName.github.io
+- Open "Github Pages" from settings page
+- Click the star icon at the top of this page ;)
 
 
+## How to customization
 
+- You can change title, description, profile image and social network icons in _config.yml file.
+- If you are not like this colors or fonts, you can change its in _sass/variables.scss file.
+```scss
+$title-font   : Lobster, cursive;
+$menu-font    : Alegreya Sans SC, sans-serif;
+$main-font    : Roboto Slab, serif;
+```
+You can add your fonts this area.
+```scss
+// Colors
+$blue: #3498db;
+$orange: #e67e22;
+$red: #e74c3c;
+$white: #ecf0f1;
+$green: #2ecc71;
+$turko: #1abc9c;
+$purple: #9b59b6;
+$dark-blue: #34495e;
 
+$main-color: $white;
+$background-color: $blue;
+$thrid-color: rgba(52, 152, 219, 0.8);
+```
 
+$main-color is panels background color.
+$background-color is background, buttons, links color.
+$thrid-color is opacity version of background color.
