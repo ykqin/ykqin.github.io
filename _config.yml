@@ -19,10 +19,8 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: ykqin
     github:  ykqin
     E-Mail: mailto:572044944@qq.com || envelope
-    #linkedIn: in/thelehhman
     rss: rss
 
     # dribbble: jekyll
