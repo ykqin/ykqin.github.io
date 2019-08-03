@@ -20,9 +20,9 @@ plainwhite:
   # generate social links in footer
   social_links:
     github:  ykqin
-    E-Mail: mailto:572044944@qq.com || envelope
     rss: rss
 
+    # E-Mail: mailto:572044944@qq.com || envelope
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -54,5 +54,3 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
-
-# remote_theme: thelehhman/plainwhite-jekyll
