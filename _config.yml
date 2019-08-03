@@ -16,6 +16,7 @@ plainwhite:
   tagline: Algorithms Engineer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
+  disqus_shortname: games
 
   # generate social links in footer
   social_links:
@@ -50,6 +51,8 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
+
+remote_theme: thelehhman/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
