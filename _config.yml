@@ -57,3 +57,8 @@ remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
