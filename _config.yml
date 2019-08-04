@@ -15,7 +15,8 @@ postshare_enabled : false
 
 # Build settings
 permalink   : /:year/:title/
-markdown    : kramdown
+# markdown    : kramdown
+markdown    : rdiscount
 highlighter : rouge
 
 source      : ./
