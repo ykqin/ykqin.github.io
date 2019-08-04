@@ -32,6 +32,8 @@ Let's start with a informative paragraph. **This text is bolded.** But not this 
 
 Let's say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [[^1]]. You can even add more footnotes, with link! [[^2]]
 
+$$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $$
+
 <div class="divider"></div>
 
 ## Blockquote
