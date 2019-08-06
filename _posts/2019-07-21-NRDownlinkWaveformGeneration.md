@@ -12,6 +12,7 @@ keywords: "SSB, CORESET0, PDCCH, PDSCH"
 - PDSCH和DMRS-PDSCH
 
 Table 5.3.2-1: Maximum transmission bandwidth configuration NRB
+
 | SCS \(kHz\) | 5 MHz | 10 MHz | 15 MHz | 20 MHz | 25 MHz | 30 MHz | 40 MHz | 50 MHz | 60 MHz | 80 MHz | 90 MHz | 100 MHz |
 |-------------|-------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|
 |             | NRB   | NRB    | NRB    | NRB    | NRB    | NRB    | NRB    | NRB    | NRB    | NRB    | NRB    | NRB     |
@@ -21,6 +22,7 @@ Table 5.3.2-1: Maximum transmission bandwidth configuration NRB
 
 
 Table 5.3.3-1: Minimum guardband for each UE channel bandwidth and SCS (kHz)
+
 | SCS \(kHz\) | 5 MHz  | 10 MHz | 15 MHz | 20 MHz | 25 MHz | 30 MHz | 40 MHz | 50 MHz | 60 MHz | 80 MHz | 90 MHz | 100 MHz |
 |-------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|
 | 15          | 242\.5 | 312\.5 | 382\.5 | 452\.5 | 522\.5 | 592\.5 | 552\.5 | 692\.5 | N/A    | N/A    | N/A    | N/A     |
@@ -30,10 +32,7 @@ Table 5.3.3-1: Minimum guardband for each UE channel bandwidth and SCS (kHz)
 
 ![5G NR信道频段分配](https://raw.githubusercontent.com/ykqin/imageData/master/blog/38101-1-fig5.3.1-1-NRchannel.png)
 
-
 利用MATLAB进行BWP配置，包括以下步骤： 
-[TOC]
-
 
 # 1 波形和载波配置
 
